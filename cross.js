@@ -32,6 +32,7 @@ select{border-color: brown; border-radius: 5px;}
 @media screen and (max-width: 968px){
 #qrcode{width:120px;height:120px;}
 }
+
 `
 var root = {
   tagName: 'div',
