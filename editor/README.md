@@ -13,6 +13,7 @@ youloge.com 自用编辑器需要高度定制，所以我一开始帮目光放�
 Github：https://github.com/youfeed/ueditor
 你们有改动 想法的 帮忙在github上提下 
 ```
+![image](https://user-images.githubusercontent.com/22223510/123699351-c3193a00-d891-11eb-874b-d3d83e722b49.png)
 
 ### 自己用笨办法+vue 实现编辑器
 
