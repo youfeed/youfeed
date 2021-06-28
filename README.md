@@ -2,7 +2,7 @@
 
 希望大家提意见 交流
 
-#### ./editor
+#### [./editor](https://github.com/youfeed/youfeed/tree/master/editor)
 百度富文本编辑器开发 和 自己高度定制的编辑器+vue 实现
 
 #### ./fmp4
