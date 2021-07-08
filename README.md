@@ -17,7 +17,8 @@ MSE视频播放 目标实现FMP4 自行初始化 和 实时 视频切片
 #### [./ecc](https://github.com/youfeed/youfeed/tree/master/ecc)
 前端实现 椭圆加密 目标=>载入私钥生成公钥 私钥签名 借助 webrtc 实现 加密拓扑网
 
-
+### [./live](https://github.com/youfeed/youfeed/tree/master/live)
+关于直播的东西 云插件的东西
 
 
 # 云盘推荐
